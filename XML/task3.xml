@@ -1,0 +1,43 @@
+<Social_Networking_Sites>
+    <site>
+        <name platform="desktop" popularity="high">Facebook</name>
+        <year established="2004" growthRate="steady">2004</year>
+        <owner type="company" country="USA">Meta</owner>
+        <description length="short" tone="informal">Connect with friends and share content.</description>
+    </site>
+    <site>
+        <name platform="mobile" popularity="medium">Twitter</name>
+        <year established="2006" growthRate="variable">2006</year>
+        <owner type="company" country="USA">Twitter</owner>
+        <description length="short" tone="informal">Microblogging platform for updates.</description>
+    </site>
+    <site>
+        <name platform="mobile" popularity="high">Instagram</name>
+        <year established="2010" growthRate="rapid">2010</year>
+        <owner type="company" country="USA">Meta</owner>
+        <description length="short" tone="informal">Photo and video sharing platform.</description>
+    </site>
+    <site>
+        <name platform="desktop" popularity="medium">LinkedIn</name>
+        <year established="2003" growthRate="steady">2003</year>
+        <owner type="company" country="USA">Microsoft</owner>
+        <description length="short" tone="formal">Professional networking site.</description>
+    </site>
+    <site>
+        <name platform="mobile" popularity="medium">Snapchat</name>
+        <year established="2011" growthRate="high">2011</year>
+        <owner type="company" country="USA">Snap</owner>
+        <description length="short" tone="informal">Multimedia messaging app.</description>
+    </site>
+    <site>
+        <name platform="mobile" popularity="high">TikTok</name>
+        <year established="2016" growthRate="rapid">2016</year>
+        <owner type="company" country="China">ByteDance</owner>
+        <description length="short" tone="informal">Short video creation platform.</description>
+    </site>
+</Social_Networking_Sites>
+
+
+
+
+
