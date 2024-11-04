@@ -1,0 +1,38 @@
+<Social_Networking_Sites>
+    <site>
+        <name>Facebook</name>
+        <year>2004</year>
+        <owner>Meta</owner>
+        <description>Connect with friends and share content.</description>
+    </site>
+    <site>
+        <name>Twitter</name>
+        <year>2006</year>
+        <owner>Twitter</owner>
+        <description>Microblogging platform for updates.</description>
+    </site>
+    <site>
+        <name>Instagram</name>
+        <year>2010</year>
+        <owner>Meta</owner>
+        <description>Photo and video sharing platform.</description>
+    </site>
+    <site>
+        <name>LinkedIn</name>
+        <year>2003</year>
+        <owner>Microsoft</owner>
+        <description>Professional networking site.</description>
+    </site>
+    <site>
+        <name>Snapchat</name>
+        <year>2011</year>
+        <owner>Snap</owner>
+        <description>Multimedia messaging app.</description>
+    </site>
+    <site>
+        <name>TikTok</name>
+        <year>2016</year>
+        <owner>ByteDance</owner>
+        <description>Short video creation platform.</description>
+    </site>
+</Social_Networking_Sites>
