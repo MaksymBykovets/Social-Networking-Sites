@@ -1,0 +1,13 @@
+{
+    "siteName": "Facebook",
+    "year": "2004",
+    "montlyAverageUsers": "1000000000",
+    "dailyUsers" : "2300000",
+    "hasAdvertisment": true,
+    "properties": ["videos", "photos,", "stories", "chats"],
+    "rating": "null",
+    "support": {
+        "email": "support@facebook.com",
+        "phoneNumber": "+18005512899"
+    }
+}
