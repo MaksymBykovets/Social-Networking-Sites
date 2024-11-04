@@ -1,0 +1,51 @@
+[
+    {
+        "site": "Facebook",
+        "year": "2004",
+        "montlyUsers": "3.065",
+        "averageUsers": "2.11",
+        "hasAdvertisment": true
+
+    },
+
+    {
+        "site": "Twitter",
+        "year": "2006",
+        "montlyUsers": "3680000",
+        "averageUsers": "6110000",
+        "hasAdvertisment": true
+
+    },
+
+    {
+        "site": "Instagram",
+        "year": "2010",
+        "montlyUsers": "2000000000",
+        "averageUusers": "1.5",
+        "hasAdvertisment": true
+    },
+
+    {
+        "site": "Snapchat",
+        "year": "2011",
+        "montlyUsers": "750000000",
+        "averageUusers": "0.8",
+        "hasAdvertisment": true
+    },
+
+    {
+        "site": "Linkedln",
+        "year": "2003",
+        "montlyUsers": "90000000",
+        "averageUusers": "0.5",
+        "hasAdvertisment": true
+    },
+
+    {
+        "site": "TikTok",
+        "year": "2016",
+        "montlyUsers": "150000000",
+        "averageUusers": "1.2",
+        "hasAdvertisment": true
+    }
+]
